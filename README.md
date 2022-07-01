@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prudhomv
+- 👋 Hi, I’m Vince
 - 👀 I’m interested in Data Science, Data Engineering and Machine Learning
 - 🌱 I’m currently learning Python and java
 - 💞️ I’m looking to collaborate on Data Science projects
